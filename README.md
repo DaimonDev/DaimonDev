@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @DaimonDev
+- 👀 I’m interested in Industrial Design, 3D modelling and Game Development...
+- 🌱 I’m currently learning everything that goes into making a Game...
+- 📫 How to reach me: send me a DM on my Instagram @_pepdesigns ...
+
+<!---
+DaimonDev/DaimonDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
